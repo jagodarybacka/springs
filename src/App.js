@@ -1,11 +1,11 @@
-import Simple from 'components/Simple'
+import Secret from 'components/Secret'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <div className="App-container">
-        <Simple />
+        <Secret />
       </div>
     </div>
   );
